@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://krisvue-quan2.blogspot.com' target='_blank'><img src='https://jgoogle.googlecode.com/svn/trunk/dao-tao-seo-chuyen-sau.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://krisvue-quan2.blogspot.com' target='_blank'><img src='http://vietnamexploring.com/wp-content/uploads/vhtc.jpg' width='500px'/>Dự án KRIS VUE QUẬN 2</a>. ĐẦU TƯ SINH LỢI CAO. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
